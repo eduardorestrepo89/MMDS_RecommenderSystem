@@ -1,6 +1,12 @@
 # MMDS_RecommenderSystem
 Desarrollo de un modelo de recomendacion de libros de Amazon
 
+## Datos para el trabajao:
+
+Debido al peso del archivo de los datos, no es posible cargarlo al git ni comprimiendolo, es por esa razon que se deja el link de kaggle para que se pueda descaragr el archivo:
+
+https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=Books_rating.csv
+
 ## Descripción Codigo:
 
 El procesamiento de los datos requiere una alta capacidad de recursos, por lo que es necesario ejecutar este código en un clúster con un kernel de PySpark. El clúster debe contar con al menos cinco máquinas (descritas en el documento: Proyecto.pdf) para garantizar un funcionamiento óptimo y eficiente.
